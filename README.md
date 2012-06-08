@@ -8,7 +8,7 @@ ANSI color Echo alternative for batch scripts
     EchoA /A:0b Hello World
     EchoA /A:0b Info && EchoA /A:2f Commands available && Echo.
 
-You can also use EchoA without default colors:
+You can also use EchoA with just the default console colors:
 
     EchoA Hello World
 

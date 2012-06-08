@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copyright (c) ThunderMain Ltd. All rights reserved. See license.txt in the project root for license information.
+
+using System;
 using System.Globalization;
 using System.Linq;
 
